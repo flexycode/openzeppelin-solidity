@@ -30,6 +30,8 @@ contract MyNFT is ERC721Full, ERC721Mintable {
     constructor() ERC721Full("MyNFT", "MNFT") public {
     }
 }
+
+
 If you’re new to smart contract development, head to Developing Smart Contracts to learn about creating a new project and compiling your contracts.
 To keep your system secure, you should always use the installed code as-is, and neither copy-paste it from online sources, nor modify it yourself.
 
